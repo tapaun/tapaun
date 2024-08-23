@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-## 🔭 I’m currently on expanding my knowledge about .NET and C# and their possible uses. I wish to one day be a fullfledged C# programmer.
+## 🔭 I’m currently working on expanding my knowledge about .NET and C# and their possible uses. I wish to one day be a fullfledged C# programmer.
 ## 🌱 I’m currently learning Unity and game development.
 ## 🤔 I’m looking for help with studying guides or any sources which could help me improve.
 ## 💬 Ask me about anything.
